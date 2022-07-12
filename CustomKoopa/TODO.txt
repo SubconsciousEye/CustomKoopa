@@ -1,0 +1,93 @@
+TODO List.
+;;;;;;;;;;;;;;
+
+v1.00 stuff
+
+-Clean Up Code
+--There's a lot of weird decisions during the timerush on Winter C3 2022
+--Also need to make the code formatting more consistent
+--This includes macros, which don't currently use variable arguments
+
+-Comment Code Properly
+--This will be done after the code is cleaned up
+
+-Allow user to define various properties separately
+--Currently, a lot of things are hardcoded, in part due to the rush
+
+-Find a User-Friendly way of handling Graphics stuff
+--As it is currently, it's not very clear to the user
+--Pointers and Tilemaps definitely need a facelift
+
+-Proper SA-1 Testing
+--Self-explanatory
+
+-Freeform version of Custom Koopa
+--This will be a bit more flexible than the "Traditional" Custom Koopa
+--This will start once the "Traditional" version is finalized
+
+;;;;;;;;;;;;;;;;
+;; Freeform Roadmap Notes
+
+
+
+;; Extra Bit: -----K--
+;;    K = 0, SMW Style Koopa
+;;    K = 1, SMB3 Style Koopa
+;; 
+;; Extra Byte 1: SEBWPPPG
+;;    G = Alternate Graphics Tilemap
+;;    PPP = Koopa Palette Coloring
+;;    W = Has Wings (Paratroopa)
+;;    B = Is Beach (Naked) Koopa
+;;    E = Empty Shell Flag
+;;    S = Spawn in Stunned State
+;; Extra Byte 2: dcjfbbbb
+;;    d = Turn Disco
+;;    c = Spawns Coin
+;;    j = Jump over shells
+;;    f = Follow Player
+;;    bbbb = Behavior Index (0-F)
+;; Extra Byte 3: lsssssss
+;;    l = Stay on Ledges
+;;    sssssss = Move Speed (00-7F)
+;; Extra Byte 4: hakkkkkk
+;;    h = Hop Into or Kick Shells (Beach)
+;;      = 0, Hop Into Shell
+;;      = 1, Kick Shell/Objects
+;;    a = Add Speed to Default Kick Speed?
+;;      = (Might not implement)
+;;    kkkkkk = Kicked Speed (00-3F)
+;; Speeds can also determine how certain
+;;  behaviors move around
+;; 
+;; !1510 = Behavior Pointer Index * 2 w/ KG
+;; !1504 = Graphics Pointer Index / 2
+;; !1510 = Behavior Properties Index
+;; !1504 = Graphic Properties Index
+;; 
+;; Faster Aerial Animation is now only for
+;;  default walking animation, if the Koopa
+;;  is jumping over a shell.
+;; 
+;; Turning Frame is now tied to Graphics.
+;; 
+;; "SMB3" Beach Koopas are now forced to
+;;  neither kick nor hop into shells.
+;; 
+;; Behaviors (Koopa/Paratroopa only)
+;;   0 = Standard
+;;   1 = Hover
+;;   2 = Patrol, Horizontal
+;;   3 = Patrol, Vertical
+;;   4 = Fly Straight Horizontal
+;;   5 = Bounce, Position-Based
+;;   6 = Chasing Flyer
+;;   7 = Wavy Flyer
+;;   8 = Revolve, Counterclockwise
+;;   9 = Revolve, Clockwise
+;;   A = Free to implement
+;;   B = Free to implement
+;;   C = Free to implement
+;;   D = Free to implement
+;;   E = Free to implement
+;;   F = Free to implement

@@ -1,0 +1,16 @@
+Incompatibility List.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+-Any External ASM that may make use of previously unused Sprite RAM Tables
+--This includes tables such as !1504, !1510, and !1FD6
+--Due to the complexity of the Custom Koopa, it almost exhausts a large portion of the already existing Sprite RAM Tables; it tries to at least be compatible with stock SMW stuff and PIXI
+--If you can, you should put them into some FreeRAM address to reduce conflict
+
+-Any custom Spriteset System
+--This is in part due to how the Graphics Routine is handled, being as complex as it is
+--It ***might*** be possible to make compatible, but would require a separate "version" of the Custom Koopa or some other
+--An alternative approach would be making the G bit determine if the sprite uses a "static" tilemapping (as in the default SMW Koopa) or the "spriteset" tilemapping
+
+-Any resource that modifies any of the Sprite Collision handlers
+--The sprite expects that most of SMW's default collision handling is untouched, modifying it may make the sprite behave in ways you don't expect
+--This is especially true if you modify Sprite-Specific related interactions (e.g. Stunned Sprites, Kicked Sprites, Player Interaction...)
