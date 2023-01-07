@@ -83,8 +83,13 @@ CODE_019624:					;-----------| Subroutine to handle routines relating to the stu
 	ASL !15F6,X				;$01967C	|\ Clear the shell's Y flip.
 	LSR !15F6,X				;$01967F	|/
 ;; Preserve Sprite Number of other sprite
+if !option_14C8EraseExtraBits == !True
+	lda !extra_prop_2,x
+endif
 	tyx
+if !option_14C8EraseExtraBits == !False
 	lda !extra_bits,x
+endif
 if !option_ExtraBits_h03 == !True
 	and #$03
 else

@@ -31,6 +31,30 @@
 !option_ExtraBits_h03		?=	!False
 
 
+;; Status 0 Erase Extra Bits
+;;  PIXI, for some reason, hijacks
+;;  $018151 to clear !extra_bits,x
+;;  whenever !14C8,x is zero
+;;  (i.e. sprite no longer exists).
+;; As far as SMW is concerned, a slot
+;;  is free if !14C8,x is 0, so there
+;;  isn't really a reason to zero out
+;;  !extra_bits,x unless PIXI or some
+;;  other resource does something weird.
+;; This inconveniences some (SMW) code
+;;  that handles a Shell checking
+;;  (loosely) for a Beach Koopa to
+;;  determine if we can go disco, as
+;;  the Beach Koopa erases itself upon
+;;  entering the shell.
+;; If we want to mimic SMW, we kind of
+;;  want some sort of workaround, so
+;;  we transfer the Beach Koopa's
+;;  extra bits over to the Shell's
+;;  !extra_prop_2.
+!option_14C8EraseExtraBits		?=	!True
+
+
 ;; Behavior Pointer Failsafe
 ;;  This is used on the
 ;;  off-chance that some

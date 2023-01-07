@@ -278,6 +278,12 @@ CheckEntering:					;```````````| Not kicking/flipping; check entering.
 	STA !1558,Y				;$018AD1	|/
 	LDA !9E,X					;$018AD4	|\ Track the sprite ID of the Koopa that just jumped into the shell.
 	STA !160E,Y				;$018AD6	|/
+if !option_14C8EraseExtraBits == !True
+	lda !extra_bits,x
+	tyx
+	sta !extra_prop_2,x
+	ldx !sprite_slot
+endif
 Return:					;			|
 	RTS							;$018AD9	|
 
