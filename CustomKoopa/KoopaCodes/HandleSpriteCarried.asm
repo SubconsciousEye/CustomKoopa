@@ -76,6 +76,10 @@ CODE_019FF4:
 
 CODE_01A002:
 	JSR CODE_019624				;$01A002	| Handle stun timer routines.
+if !SA1 == !True
+	lda !9E,x
+	sta $87
+endif
 	jsl !SprSprInteract		;$01A005	| Handle interaction with other sprites.
 	LDA $1419|!addr					;$01A008	|\ 
 	BNE CODE_01A011				;$01A00B	||
@@ -214,7 +218,7 @@ CODE_01A0E2:					;			||
 	LDA $00						;$01A0F7	|\ 
 	CLC							;$01A0F9	||
 	ADC.w DATA_019F5B,Y			;$01A0FA	||
-	STA $E4,X					;$01A0FD	|| Offset horizontally from Mario.
+	STA !E4,X					;$01A0FD	|| Offset horizontally from Mario.
 	LDA $01						;$01A0FF	||
 	ADC.w DATA_019F61,Y			;$01A101	||
 	STA !14E0,X				;$01A104	|/

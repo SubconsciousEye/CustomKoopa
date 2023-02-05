@@ -6,6 +6,10 @@ CODE_01956A:					;```````````| Routine for all stunned sprites except springboar
 
 CODE_019571:
 	JSR CODE_019624				;$019571	| Handle stun timer related routines.
+if !SA1 == !True
+	lda !9E,x
+	sta $87		; sprite num cache?
+endif
 	jsl !UpdateSpritePos			;$019574	| Update X/Y position, apply gravity, and process interaction with blocks.
 	%IsOnGround()				;$019577	|\ 
 	BEQ CODE_019598				;$01957A	|| If the sprite is on the ground, process ground interaction.
@@ -141,6 +145,9 @@ endif
 	ORA #$30					;$019691	||| Disable cape/fireball killing.
 	STA !166E,X				;$019693	||/
 	LDA #$0A					;$019696	||
+if !SA1
+	sta $87		; sprite num cache?
+endif
 	sta !9E,x
 CODE_019698:					;			||
 	STA !14C8,X				;$019698	|/

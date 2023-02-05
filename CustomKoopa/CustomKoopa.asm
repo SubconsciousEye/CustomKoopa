@@ -86,7 +86,14 @@ Main:
 	beq .SetActsLike
 	ldy #$11
 .SetActsLike
+if !SA1
+	pha : tya
+	sta !9E,x
+	sta $87		; sprite num cache?
+	pla
+else
 	sty !9E,x
+endif
 ;; Not Stompable w/ Upwards Y Speed
 	lda !190F,x : and.b #~$10 : sta !190F,x
 ;; Change direction when touched
@@ -121,7 +128,15 @@ Stunned:
 	lda !1510,x : and #$02
 	beq +
 	ldy #$11
-+	sty !9E,x
++	
+if !SA1
+	pha : tya
+	sta !9E,x
+	sta $87		; sprite num cache?
+	pla
+else
+	sty !9E,x
+endif
 ;; Fix Stompable w/ Upwards Y Speed
 	lda !190F,x : and.b #~$10 : sta !190F,x
 ;; Run actual stunned shell code.
@@ -147,6 +162,9 @@ Yoshi:
 	lda !1510,x : lsr : and #$0f : tay
 	lda.w YoshiShellAbility,y
 	sta !9E,x
+if !SA1
+	sta $87		; sprite num cache?
+endif
 +	rtl
 
 
