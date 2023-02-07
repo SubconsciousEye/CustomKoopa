@@ -58,7 +58,7 @@ Main:					;-----------| Ball 'n' Chain and Gray platform
 ;; Zero out some block-related stuff
 	stz !1588,x : stz !15B8,x
 ;; Check Unstun Flag
-	lda !1FD6,x : bpl .CheckPosition
+	lda !1FD6,x : bpl .SubOffScrn
 ;; Fix Various 
 .UnstunRevolver
 ;; Get Radius
@@ -74,46 +74,8 @@ Main:					;-----------| Ball 'n' Chain and Gray platform
 	lda !14D4,x : sbc #$00 : sta !1594,x
 ;; Zero Angle High Byte and Unstun Flag
 	stz !1FD6,x
-
-;; Check position to get our SubOffScreen range
-;;  TODO: see if there is a faster/better way
-.CheckPosition
-;; Push X Position and Origin
-	lda !14E0,x		;hi
-	pha
-	lda !E4,x		;lo
-	pha
-	lda !1528,x		;hi
-	pha
-	lda !151C,x		;lo
-	pha
-;; Push Y Position and Origin
-	lda !14D4,x		;hi
-	pha
-	lda !D8,x		;lo
-	pha
-	lda !1594,x		;hi
-	pha
-	lda !1534,x		;lo
-	pha
-;; Actually compare and stuff
-	rep #$20
-	ldy #$00
-	lda 1,s : cmp 3,s : beq +
-	iny
-+	lda 5,s : cmp 7,s : beq +
-	iny
-+	tsc : clc : adc #$0008 : tcs	; Fix Stack Pointer
-;; If Y >= 2, we use lda #$07 for SubOffScreen
-;;  Otherwise, we use lda #$00
-	sep #$20
-	lda #$07
-	cpy #$02 : bcs .SubOffScrn
-;; We could do inc here instead since SubOffScreen
-;;  does and.b #$07?
-	lda #$00
 .SubOffScrn
-	%SubOffScreen()
+	lda #$07 : %SubOffScreen()
 	LDA $9D						;$02D62D	|\\ Don't rotate the sprite if game frozen.
 ;	BNE CODE_02D653				;$02D62F	||/
 	beq +

@@ -124,7 +124,7 @@ CODE_0198FD:					;			|
 	LDA !15F6,X				;$019903	|| Cycle through the palettes every other frame.
 	INC A						;$019906	||
 	INC A						;$019907	||
-	AND #$CF					;$019908	||
+	AND #$4F					;$019908	||
 	STA !15F6,X				;$01990A	|/
 CODE_01990D:					;			|
 	JMP CODE_01998C				;$01990D	|

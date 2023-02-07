@@ -70,6 +70,8 @@ Main:
 	lda !1FD6,x : bpl .SubOffScrn
 ;; Acceleration Timer
 	stz !C2,x
+;; Zero Speed
+	stz !AA,x : stz !B6,x
 ;; Clear Unstun Flag
 	stz !1FD6,x
 .SubOffScrn
