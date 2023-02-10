@@ -1,7 +1,7 @@
 Custom Koopa Readme
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-Custom Koopa v0.02_c3
+Custom Koopa v0.04_c3
  By SubconsciousEye
 
 Credits to Thomas/Kaizoman666 for the SMW Disassembly
