@@ -1,5 +1,5 @@
 ;;; macros and stuff
-
+includefrom "../CustomKoopa.asm"
 ;; Replacement SetAnimationFrame
 
 

@@ -17,7 +17,7 @@
 ;; !1504 = Graphics Pointer Index / 2
 ;; !1510 = Behavior Properties Index
 ;; !1504 = Graphic Properties Index
-
+print "VERG", "32"
 
 
 ;;;;; Koopa Defines and Macros and stuff

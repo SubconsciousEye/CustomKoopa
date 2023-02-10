@@ -1,3 +1,5 @@
+includefrom "CustomKoopa.asm"
+
 ;;; True + False defines
 ;;;  do not change, ever
 

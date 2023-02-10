@@ -1,4 +1,4 @@
-
+includefrom "../CustomKoopa.asm"
 
 namespace WavyFlyer
 

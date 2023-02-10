@@ -1,4 +1,4 @@
-
+includefrom "../CustomKoopa.asm"
 
 HandleSprDeath:
 	lda !1510,x : and.b #~$60 : sta !1510,x

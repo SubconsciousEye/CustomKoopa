@@ -1,3 +1,5 @@
+includefrom "../CustomKoopa.asm"
+
 ;; $14C8 = #$0A
 
 ;;CODE_00F160 = $00F160|!bank

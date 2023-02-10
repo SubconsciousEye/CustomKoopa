@@ -1,3 +1,5 @@
+includefrom "../CustomKoopa.asm"
+
 HandleSprStunned:				;-----------| Routine to handle sprites in the stationary/carryable/stunned state (sprite status 9).
 CODE_01956A:					;```````````| Routine for all stunned sprites except springboards and P-balloons.
 	LDA $9D						;$01956A	|\ 

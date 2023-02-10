@@ -1,3 +1,4 @@
+includefrom "CustomKoopa.asm"
 
 incsrc "KoopaGfx/GfxPtrs_Default.asm"
 

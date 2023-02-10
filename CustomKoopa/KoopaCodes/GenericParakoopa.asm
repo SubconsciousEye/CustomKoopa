@@ -1,4 +1,4 @@
-
+includefrom "../CustomKoopa.asm"
 
 InitParakoopa:				;-----------| Standard sprite INIT. Used by all Koopas, Goombas, Buzzy Beetles, Spinies, and the Hopping Flame.
 	tyx
