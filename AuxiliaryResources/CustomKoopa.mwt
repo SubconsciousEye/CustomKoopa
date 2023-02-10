@@ -1,0 +1,320 @@
+00	Custom Koopa, SMW, Pal 8 (Gold)
+	..., SMW, Pal 9 (Gray)
+	..., SMW, Pal A (Yellow)
+	..., SMW, Pal B (Blue)
+	..., SMW, Pal C (Red)
+	..., SMW, Pal D (Green)
+	..., SMW, Pal E (Misc1)
+	..., SMW, Pal F (Misc2)
+	..., SMB3, Pal 8 (Gold)
+	..., SMB3, Pal 9 (Gray)
+	..., SMB3, Pal A (Yellow)
+	..., SMB3, Pal B (Blue)
+	..., SMB3, Pal C (Red)
+	..., SMB3, Pal D (Green)
+	..., SMB3, Pal E (Misc1)
+	..., SMB3, Pal F (Misc2)
+	..., SMW, Pal 8 (Gold), Alt. GFX
+	..., SMW, Pal 9 (Gray), Alt. GFX
+	..., SMW, Pal A (Yellow), Alt. GFX
+	..., SMW, Pal B (Blue), Alt. GFX
+	..., SMW, Pal C (Red), Alt. GFX
+	..., SMW, Pal D (Green), Alt. GFX
+	..., SMW, Pal E (Misc1), Alt. GFX
+	..., SMW, Pal F (Misc2), Alt. GFX
+	..., SMB3, Pal 8 (Gold), Alt. GFX
+	..., SMB3, Pal 9 (Gray), Alt. GFX
+	..., SMB3, Pal A (Yellow), Alt. GFX
+	..., SMB3, Pal B (Blue), Alt. GFX
+	..., SMB3, Pal C (Red), Alt. GFX
+	..., SMB3, Pal D (Green), Alt. GFX
+	..., SMB3, Pal E (Misc1), Alt. GFX
+	..., SMB3, Pal F (Misc2), Alt. GFX
+	Custom Parakoopa, SMW, Pal 8 (Gold), Type 1
+	..., SMW, Pal 9 (Gray), Type 1
+	..., SMW, Pal A (Yellow), Type 1
+	..., SMW, Pal B (Blue), Type 1
+	..., SMW, Pal C (Red), Type 1
+	..., SMW, Pal D (Green), Type 1
+	..., SMW, Pal E (Misc1), Type 1
+	..., SMW, Pal F (Misc2), Type 1
+	..., SMB3, Pal 8 (Gold), Type 1
+	..., SMB3, Pal 9 (Gray), Type 1
+	..., SMB3, Pal A (Yellow), Type 1
+	..., SMB3, Pal B (Blue), Type 1
+	..., SMB3, Pal C (Red), Type 1
+	..., SMB3, Pal D (Green), Type 1
+	..., SMB3, Pal E (Misc1), Type 1
+	..., SMB3, Pal F (Misc2), Type 1
+	..., SMW, Pal 8 (Gold), Type 1, Alt. GFX
+	..., SMW, Pal 9 (Gray), Type 1, Alt. GFX
+	..., SMW, Pal A (Yellow), Type 1, Alt. GFX
+	..., SMW, Pal B (Blue), Type 1, Alt. GFX
+	..., SMW, Pal C (Red), Type 1, Alt. GFX
+	..., SMW, Pal D (Green), Type 1, Alt. GFX
+	..., SMW, Pal E (Misc1), Type 1, Alt. GFX
+	..., SMW, Pal F (Misc2), Type 1, Alt. GFX
+	..., SMB3, Pal 8 (Gold), Type 1, Alt. GFX
+	..., SMB3, Pal 9 (Gray), Type 1, Alt. GFX
+	..., SMB3, Pal A (Yellow), Type 1, Alt. GFX
+	..., SMB3, Pal B (Blue), Type 1, Alt. GFX
+	..., SMB3, Pal C (Red), Type 1, Alt. GFX
+	..., SMB3, Pal D (Green), Type 1, Alt. GFX
+	..., SMB3, Pal E (Misc1), Type 1, Alt. GFX
+	..., SMB3, Pal F (Misc2), Type 1, Alt. GFX
+	Custom Parakoopa, SMW, Pal 8 (Gold), Type 2
+	..., SMW, Pal 9 (Gray), Type 2
+	..., SMW, Pal A (Yellow), Type 2
+	..., SMW, Pal B (Blue), Type 2
+	..., SMW, Pal C (Red), Type 2
+	..., SMW, Pal D (Green), Type 2
+	..., SMW, Pal E (Misc1), Type 2
+	..., SMW, Pal F (Misc2), Type 2
+	..., SMB3, Pal 8 (Gold), Type 2
+	..., SMB3, Pal 9 (Gray), Type 2
+	..., SMB3, Pal A (Yellow), Type 2
+	..., SMB3, Pal B (Blue), Type 2
+	..., SMB3, Pal C (Red), Type 2
+	..., SMB3, Pal D (Green), Type 2
+	..., SMB3, Pal E (Misc1), Type 2
+	..., SMB3, Pal F (Misc2), Type 2
+	..., SMW, Pal 8 (Gold), Type 2, Alt. GFX
+	..., SMW, Pal 9 (Gray), Type 2, Alt. GFX
+	..., SMW, Pal A (Yellow), Type 2, Alt. GFX
+	..., SMW, Pal B (Blue), Type 2, Alt. GFX
+	..., SMW, Pal C (Red), Type 2, Alt. GFX
+	..., SMW, Pal D (Green), Type 2, Alt. GFX
+	..., SMW, Pal E (Misc1), Type 2, Alt. GFX
+	..., SMW, Pal F (Misc2), Type 2, Alt. GFX
+	..., SMB3, Pal 8 (Gold), Type 2, Alt. GFX
+	..., SMB3, Pal 9 (Gray), Type 2, Alt. GFX
+	..., SMB3, Pal A (Yellow), Type 2, Alt. GFX
+	..., SMB3, Pal B (Blue), Type 2, Alt. GFX
+	..., SMB3, Pal C (Red), Type 2, Alt. GFX
+	..., SMB3, Pal D (Green), Type 2, Alt. GFX
+	..., SMB3, Pal E (Misc1), Type 2, Alt. GFX
+	..., SMB3, Pal F (Misc2), Type 2, Alt. GFX
+	Custom Beach Koopa, Pal 8 (Gold)
+	..., Pal 9 (Gray)
+	..., Pal A (Yellow)
+	..., Pal B (Blue)
+	..., Pal C (Red)
+	..., Pal D (Green)
+	..., Pal E (Misc1)
+	..., Pal F (Misc2)
+	..., Pal 8 (Gold), Alt. GFX
+	..., Pal 9 (Gray), Alt. GFX
+	..., Pal A (Yellow), Alt. GFX
+	..., Pal B (Blue), Alt. GFX
+	..., Pal C (Red), Alt. GFX
+	..., Pal D (Green), Alt. GFX
+	..., Pal E (Misc1), Alt. GFX
+	..., Pal F (Misc2), Alt. GFX
+	Custom Shell, SMW, Pal 8 (Gold)
+	..., SMW, Pal 9 (Gray)
+	..., SMW, Pal A (Yellow)
+	..., SMW, Pal B (Blue)
+	..., SMW, Pal C (Red)
+	..., SMW, Pal D (Green)
+	..., SMW, Pal E (Misc1)
+	..., SMW, Pal F (Misc2)
+	..., SMB3, Pal 8 (Gold)
+	..., SMB3, Pal 9 (Gray)
+	..., SMB3, Pal A (Yellow)
+	..., SMB3, Pal B (Blue)
+	..., SMB3, Pal C (Red)
+	..., SMB3, Pal D (Green)
+	..., SMB3, Pal E (Misc1)
+	..., SMB3, Pal F (Misc2)
+	..., SMW, Pal 8 (Gold), Alt. GFX
+	..., SMW, Pal 9 (Gray), Alt. GFX
+	..., SMW, Pal A (Yellow), Alt. GFX
+	..., SMW, Pal B (Blue), Alt. GFX
+	..., SMW, Pal C (Red), Alt. GFX
+	..., SMW, Pal D (Green), Alt. GFX
+	..., SMW, Pal E (Misc1), Alt. GFX
+	..., SMW, Pal F (Misc2), Alt. GFX
+	..., SMB3, Pal 8 (Gold), Alt. GFX
+	..., SMB3, Pal 9 (Gray), Alt. GFX
+	..., SMB3, Pal A (Yellow), Alt. GFX
+	..., SMB3, Pal B (Blue), Alt. GFX
+	..., SMB3, Pal C (Red), Alt. GFX
+	..., SMB3, Pal D (Green), Alt. GFX
+	..., SMB3, Pal E (Misc1), Alt. GFX
+	..., SMB3, Pal F (Misc2), Alt. GFX
+	Custom Parakoopa Shell, SMW, Pal 8 (Gold), Type 1
+	..., SMW, Pal 9 (Gray), Type 1
+	..., SMW, Pal A (Yellow), Type 1
+	..., SMW, Pal B (Blue), Type 1
+	..., SMW, Pal C (Red), Type 1
+	..., SMW, Pal D (Green), Type 1
+	..., SMW, Pal E (Misc1), Type 1
+	..., SMW, Pal F (Misc2), Type 1
+	..., SMB3, Pal 8 (Gold), Type 1
+	..., SMB3, Pal 9 (Gray), Type 1
+	..., SMB3, Pal A (Yellow), Type 1
+	..., SMB3, Pal B (Blue), Type 1
+	..., SMB3, Pal C (Red), Type 1
+	..., SMB3, Pal D (Green), Type 1
+	..., SMB3, Pal E (Misc1), Type 1
+	..., SMB3, Pal F (Misc2), Type 1
+	..., SMW, Pal 8 (Gold), Type 1, Alt. GFX
+	..., SMW, Pal 9 (Gray), Type 1, Alt. GFX
+	..., SMW, Pal A (Yellow), Type 1, Alt. GFX
+	..., SMW, Pal B (Blue), Type 1, Alt. GFX
+	..., SMW, Pal C (Red), Type 1, Alt. GFX
+	..., SMW, Pal D (Green), Type 1, Alt. GFX
+	..., SMW, Pal E (Misc1), Type 1, Alt. GFX
+	..., SMW, Pal F (Misc2), Type 1, Alt. GFX
+	..., SMB3, Pal 8 (Gold), Type 1, Alt. GFX
+	..., SMB3, Pal 9 (Gray), Type 1, Alt. GFX
+	..., SMB3, Pal A (Yellow), Type 1, Alt. GFX
+	..., SMB3, Pal B (Blue), Type 1, Alt. GFX
+	..., SMB3, Pal C (Red), Type 1, Alt. GFX
+	..., SMB3, Pal D (Green), Type 1, Alt. GFX
+	..., SMB3, Pal E (Misc1), Type 1, Alt. GFX
+	..., SMB3, Pal F (Misc2), Type 1, Alt. GFX
+	Custom Parakoopa Shell, SMW, Pal 8 (Gold), Type 2
+	..., SMW, Pal 9 (Gray), Type 2
+	..., SMW, Pal A (Yellow), Type 2
+	..., SMW, Pal B (Blue), Type 2
+	..., SMW, Pal C (Red), Type 2
+	..., SMW, Pal D (Green), Type 2
+	..., SMW, Pal E (Misc1), Type 2
+	..., SMW, Pal F (Misc2), Type 2
+	..., SMB3, Pal 8 (Gold), Type 2
+	..., SMB3, Pal 9 (Gray), Type 2
+	..., SMB3, Pal A (Yellow), Type 2
+	..., SMB3, Pal B (Blue), Type 2
+	..., SMB3, Pal C (Red), Type 2
+	..., SMB3, Pal D (Green), Type 2
+	..., SMB3, Pal E (Misc1), Type 2
+	..., SMB3, Pal F (Misc2), Type 2
+	..., SMW, Pal 8 (Gold), Type 2, Alt. GFX
+	..., SMW, Pal 9 (Gray), Type 2, Alt. GFX
+	..., SMW, Pal A (Yellow), Type 2, Alt. GFX
+	..., SMW, Pal B (Blue), Type 2, Alt. GFX
+	..., SMW, Pal C (Red), Type 2, Alt. GFX
+	..., SMW, Pal D (Green), Type 2, Alt. GFX
+	..., SMW, Pal E (Misc1), Type 2, Alt. GFX
+	..., SMW, Pal F (Misc2), Type 2, Alt. GFX
+	..., SMB3, Pal 8 (Gold), Type 2, Alt. GFX
+	..., SMB3, Pal 9 (Gray), Type 2, Alt. GFX
+	..., SMB3, Pal A (Yellow), Type 2, Alt. GFX
+	..., SMB3, Pal B (Blue), Type 2, Alt. GFX
+	..., SMB3, Pal C (Red), Type 2, Alt. GFX
+	..., SMB3, Pal D (Green), Type 2, Alt. GFX
+	..., SMB3, Pal E (Misc1), Type 2, Alt. GFX
+	..., SMB3, Pal F (Misc2), Type 2, Alt. GFX
+	Custom Sliding Beach Koopa, Pal 8 (Gold)
+	..., Pal 9 (Gray)
+	..., Pal A (Yellow)
+	..., Pal B (Blue)
+	..., Pal C (Red)
+	..., Pal D (Green)
+	..., Pal E (Misc1)
+	..., Pal F (Misc2)
+	..., Pal 8 (Gold), Alt. GFX
+	..., Pal 9 (Gray), Alt. GFX
+	..., Pal A (Yellow), Alt. GFX
+	..., Pal B (Blue), Alt. GFX
+	..., Pal C (Red), Alt. GFX
+	..., Pal D (Green), Alt. GFX
+	..., Pal E (Misc1), Alt. GFX
+	..., Pal F (Misc2), Alt. GFX
+	Custom Empty Shell, SMW, Pal 8 (Gold)
+	..., SMW, Pal 9 (Gray)
+	..., SMW, Pal A (Yellow)
+	..., SMW, Pal B (Blue)
+	..., SMW, Pal C (Red)
+	..., SMW, Pal D (Green)
+	..., SMW, Pal E (Misc1)
+	..., SMW, Pal F (Misc2)
+	..., SMB3, Pal 8 (Gold)
+	..., SMB3, Pal 9 (Gray)
+	..., SMB3, Pal A (Yellow)
+	..., SMB3, Pal B (Blue)
+	..., SMB3, Pal C (Red)
+	..., SMB3, Pal D (Green)
+	..., SMB3, Pal E (Misc1)
+	..., SMB3, Pal F (Misc2)
+	..., SMW, Pal 8 (Gold), Alt. GFX
+	..., SMW, Pal 9 (Gray), Alt. GFX
+	..., SMW, Pal A (Yellow), Alt. GFX
+	..., SMW, Pal B (Blue), Alt. GFX
+	..., SMW, Pal C (Red), Alt. GFX
+	..., SMW, Pal D (Green), Alt. GFX
+	..., SMW, Pal E (Misc1), Alt. GFX
+	..., SMW, Pal F (Misc2), Alt. GFX
+	..., SMB3, Pal 8 (Gold), Alt. GFX
+	..., SMB3, Pal 9 (Gray), Alt. GFX
+	..., SMB3, Pal A (Yellow), Alt. GFX
+	..., SMB3, Pal B (Blue), Alt. GFX
+	..., SMB3, Pal C (Red), Alt. GFX
+	..., SMB3, Pal D (Green), Alt. GFX
+	..., SMB3, Pal E (Misc1), Alt. GFX
+	..., SMB3, Pal F (Misc2), Alt. GFX
+	Custom Empty Parakoopa Shell, SMW, Pal 8 (Gold), Type 1
+	..., SMW, Pal 9 (Gray), Type 1
+	..., SMW, Pal A (Yellow), Type 1
+	..., SMW, Pal B (Blue), Type 1
+	..., SMW, Pal C (Red), Type 1
+	..., SMW, Pal D (Green), Type 1
+	..., SMW, Pal E (Misc1), Type 1
+	..., SMW, Pal F (Misc2), Type 1
+	..., SMB3, Pal 8 (Gold), Type 1
+	..., SMB3, Pal 9 (Gray), Type 1
+	..., SMB3, Pal A (Yellow), Type 1
+	..., SMB3, Pal B (Blue), Type 1
+	..., SMB3, Pal C (Red), Type 1
+	..., SMB3, Pal D (Green), Type 1
+	..., SMB3, Pal E (Misc1), Type 1
+	..., SMB3, Pal F (Misc2), Type 1
+	..., SMW, Pal 8 (Gold), Type 1, Alt. GFX
+	..., SMW, Pal 9 (Gray), Type 1, Alt. GFX
+	..., SMW, Pal A (Yellow), Type 1, Alt. GFX
+	..., SMW, Pal B (Blue), Type 1, Alt. GFX
+	..., SMW, Pal C (Red), Type 1, Alt. GFX
+	..., SMW, Pal D (Green), Type 1, Alt. GFX
+	..., SMW, Pal E (Misc1), Type 1, Alt. GFX
+	..., SMW, Pal F (Misc2), Type 1, Alt. GFX
+	..., SMB3, Pal 8 (Gold), Type 1, Alt. GFX
+	..., SMB3, Pal 9 (Gray), Type 1, Alt. GFX
+	..., SMB3, Pal A (Yellow), Type 1, Alt. GFX
+	..., SMB3, Pal B (Blue), Type 1, Alt. GFX
+	..., SMB3, Pal C (Red), Type 1, Alt. GFX
+	..., SMB3, Pal D (Green), Type 1, Alt. GFX
+	..., SMB3, Pal E (Misc1), Type 1, Alt. GFX
+	..., SMB3, Pal F (Misc2), Type 1, Alt. GFX
+	Custom Empty Parakoopa Shell, SMW, Pal 8 (Gold), Type 2
+	..., SMW, Pal 9 (Gray), Type 2
+	..., SMW, Pal A (Yellow), Type 2
+	..., SMW, Pal B (Blue), Type 2
+	..., SMW, Pal C (Red), Type 2
+	..., SMW, Pal D (Green), Type 2
+	..., SMW, Pal E (Misc1), Type 2
+	..., SMW, Pal F (Misc2), Type 2
+	..., SMB3, Pal 8 (Gold), Type 2
+	..., SMB3, Pal 9 (Gray), Type 2
+	..., SMB3, Pal A (Yellow), Type 2
+	..., SMB3, Pal B (Blue), Type 2
+	..., SMB3, Pal C (Red), Type 2
+	..., SMB3, Pal D (Green), Type 2
+	..., SMB3, Pal E (Misc1), Type 2
+	..., SMB3, Pal F (Misc2), Type 2
+	..., SMW, Pal 8 (Gold), Type 2, Alt. GFX
+	..., SMW, Pal 9 (Gray), Type 2, Alt. GFX
+	..., SMW, Pal A (Yellow), Type 2, Alt. GFX
+	..., SMW, Pal B (Blue), Type 2, Alt. GFX
+	..., SMW, Pal C (Red), Type 2, Alt. GFX
+	..., SMW, Pal D (Green), Type 2, Alt. GFX
+	..., SMW, Pal E (Misc1), Type 2, Alt. GFX
+	..., SMW, Pal F (Misc2), Type 2, Alt. GFX
+	..., SMB3, Pal 8 (Gold), Type 2, Alt. GFX
+	..., SMB3, Pal 9 (Gray), Type 2, Alt. GFX
+	..., SMB3, Pal A (Yellow), Type 2, Alt. GFX
+	..., SMB3, Pal B (Blue), Type 2, Alt. GFX
+	..., SMB3, Pal C (Red), Type 2, Alt. GFX
+	..., SMB3, Pal D (Green), Type 2, Alt. GFX
+	..., SMB3, Pal E (Misc1), Type 2, Alt. GFX
+	..., SMB3, Pal F (Misc2), Type 2, Alt. GFX

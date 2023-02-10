@@ -1,0 +1,448 @@
+00 10020 Gold Koopa, SMW Style
+00 10022 0,-15,400 0,1,410
+00 10030 Gold Koopa, SMB3 Style
+00 10032 0,-13,408 0,3,418
+00 10220 Silver Koopa, SMW Style
+00 10222 0,-15,401 0,1,411
+00 10230 Silver Koopa, SMB3 Style
+00 10232 0,-13,409 0,3,419
+00 10420 Yellow Koopa, SMW Style
+00 10422 0,-15,402 0,1,412
+00 10430 Yellow Koopa, SMB3 Style
+00 10432 0,-13,40A 0,3,41A
+00 10620 Blue Koopa, SMW Style
+00 10622 0,-15,403 0,1,413
+00 10630 Blue Koopa, SMB3 Style
+00 10632 0,-13,40B 0,3,41B
+00 10820 Red Koopa, SMW Style
+00 10822 0,-15,404 0,1,414
+00 10830 Red Koopa, SMB3 Style
+00 10832 0,-13,40C 0,3,41C
+00 10A20 Green Koopa, SMW Style
+00 10A22 0,-15,405 0,1,415
+00 10A30 Green Koopa, SMB3 Style
+00 10A32 0,-13,40D 0,3,41D
+00 10C20 Pal E Koopa, SMW Style
+00 10C22 0,-15,406 0,1,416
+00 10C30 Pal E Koopa, SMB3 Style
+00 10C32 0,-13,40E 0,3,41E
+00 10E20 Pal F Koopa, SMW Style
+00 10E22 0,-15,407 0,1,417
+00 10E30 Pal F Koopa, SMB3 Style
+00 10E32 0,-13,40F 0,3,41F
+00 10120 Gold Koopa, SMW Mask Style
+00 10122 0,-15,420 0,1,430
+00 10130 Gold Koopa, SMB1 Style
+00 10132 0,-15,428 0,1,438
+00 10320 Silver Koopa, SMW Mask Style
+00 10322 0,-15,421 0,1,431
+00 10330 Silver Koopa, SMB1 Style
+00 10332 0,-15,429 0,1,439
+00 10520 Yellow Koopa, SMW Mask Style
+00 10522 0,-15,422 0,1,432
+00 10530 Yellow Koopa, SMB1 Style
+00 10532 0,-15,42A 0,1,43A
+00 10720 Blue Koopa, SMW Mask Style
+00 10722 0,-15,423 0,1,433
+00 10730 Blue Koopa, SMB1 Style
+00 10732 0,-15,42B 0,1,43B
+00 10920 Red Koopa, SMW Mask Style
+00 10922 0,-15,424 0,1,434
+00 10930 Red Koopa, SMB1 Style
+00 10932 0,-15,42C 0,1,43C
+00 10B20 Green Koopa, SMW Mask Style
+00 10B22 0,-15,425 0,1,435
+00 10B30 Green Koopa, SMB1 Style
+00 10B32 0,-15,42D 0,1,43D
+00 10D20 Pal E Koopa, SMW Mask Style
+00 10D22 0,-15,426 0,1,436
+00 10D30 Pal E Koopa, SMB1 Style
+00 10D32 0,-15,42E 0,1,43E
+00 10F20 Pal F Koopa, SMW Mask Style
+00 10F22 0,-15,427 0,1,437
+00 10F30 Pal F Koopa, SMB1 Style
+00 10F32 0,-15,42F 0,1,43F
+00 11020 Gold ParaKoopa, Type 1, SMW Style
+00 11022 0,-15,400 0,1,410 9,-12,440
+00 11030 Gold ParaKoopa, Type 1, SMB3 Style
+00 11032 0,-13,408 0,3,418 8,-13,444
+00 11220 Silver ParaKoopa, Type 1, SMW Style
+00 11222 0,-15,401 0,1,411 9,-12,440
+00 11230 Silver ParaKoopa, Type 1, SMB3 Style
+00 11232 0,-13,409 0,3,419 8,-13,444
+00 11420 Yellow ParaKoopa, Type 1, SMW Style
+00 11422 0,-15,402 0,1,412 9,-12,440
+00 11430 Yellow ParaKoopa, Type 1, SMB3 Style
+00 11432 0,-13,40A 0,3,41A 8,-13,444
+00 11620 Blue ParaKoopa, Type 1, SMW Style
+00 11622 0,-15,403 0,1,413 9,-12,440
+00 11630 Blue ParaKoopa, Type 1, SMB3 Style
+00 11632 0,-13,40B 0,3,41B 8,-13,444
+00 11820 Red ParaKoopa, Type 1, SMW Style
+00 11822 0,-15,404 0,1,414 9,-12,440
+00 11830 Red ParaKoopa, Type 1, SMB3 Style
+00 11832 0,-13,40C 0,3,41C 8,-13,444
+00 11A20 Green ParaKoopa, Type 1, SMW Style
+00 11A22 0,-15,405 0,1,415 9,-12,440
+00 11A30 Green ParaKoopa, Type 1, SMB3 Style
+00 11A32 0,-13,40D 0,3,41D 8,-13,444
+00 11C20 Pal E ParaKoopa, Type 1, SMW Style
+00 11C22 0,-15,406 0,1,416 9,-12,440
+00 11C30 Pal E ParaKoopa, Type 1, SMB3 Style
+00 11C32 0,-13,40E 0,3,41E 8,-13,444
+00 11E20 Pal F ParaKoopa, Type 1, SMW Style
+00 11E22 0,-15,407 0,1,417 9,-12,440
+00 11E30 Pal F ParaKoopa, Type 1, SMB3 Style
+00 11E32 0,-13,40F 0,3,41F 8,-13,444
+00 11120 Gold ParaKoopa, Type 1, SMW Mask Style
+00 11122 0,-15,420 0,1,430 9,-12,442
+00 11130 Gold ParaKoopa, Type 1, SMB1 Style
+00 11132 0,-15,428 0,1,438 8,-8,446
+00 11320 Silver ParaKoopa, Type 1, SMW Mask Style
+00 11322 0,-15,421 0,1,431 9,-12,442
+00 11330 Silver ParaKoopa, Type 1, SMB1 Style
+00 11332 0,-15,429 0,1,439 8,-8,446
+00 11520 Yellow ParaKoopa, Type 1, SMW Mask Style
+00 11522 0,-15,422 0,1,432 9,-12,442
+00 11530 Yellow ParaKoopa, Type 1, SMB1 Style
+00 11532 0,-15,42A 0,1,43A 8,-8,446
+00 11720 Blue ParaKoopa, Type 1, SMW Mask Style
+00 11722 0,-15,423 0,1,433 9,-12,442
+00 11730 Blue ParaKoopa, Type 1, SMB1 Style
+00 11732 0,-15,42B 0,1,43B 8,-8,446
+00 11920 Red ParaKoopa, Type 1, SMW Mask Style
+00 11922 0,-15,424 0,1,434 9,-12,442
+00 11930 Red ParaKoopa, Type 1, SMB1 Style
+00 11932 0,-15,42C 0,1,43C 8,-8,446
+00 11B20 Green ParaKoopa, Type 1, SMW Mask Style
+00 11B22 0,-15,425 0,1,435 9,-12,442
+00 11B30 Green ParaKoopa, Type 1, SMB1 Style
+00 11B32 0,-15,42D 0,1,43D 8,-8,446
+00 11D20 Pal E ParaKoopa, Type 1, SMW Mask Style
+00 11D22 0,-15,426 0,1,436 9,-12,442
+00 11D30 Pal E ParaKoopa, Type 1, SMB1 Style
+00 11D32 0,-15,42E 0,1,43E 8,-8,446
+00 11F20 Pal F ParaKoopa, Type 1, SMW Mask Style
+00 11F22 0,-15,427 0,1,437 9,-12,442
+00 11F30 Pal F ParaKoopa, Type 1, SMB1 Style
+00 11F32 0,-15,42F 0,1,43F 8,-8,446
+00 13020 Gold ParaKoopa, Type 2, SMW Style
+00 13022 0,-15,400 0,1,410 9,-12,441
+00 13030 Gold ParaKoopa, Type 2, SMB3 Style
+00 13032 0,-13,408 0,3,418 8,-13,445
+00 13220 Silver ParaKoopa, Type 2, SMW Style
+00 13222 0,-15,401 0,1,411 9,-12,441
+00 13230 Silver ParaKoopa, Type 2, SMB3 Style
+00 13232 0,-13,409 0,3,419 8,-13,445
+00 13420 Yellow ParaKoopa, Type 2, SMW Style
+00 13422 0,-15,402 0,1,412 9,-12,441
+00 13430 Yellow ParaKoopa, Type 2, SMB3 Style
+00 13432 0,-13,40A 0,3,41A 8,-13,445
+00 13620 Blue ParaKoopa, Type 2, SMW Style
+00 13622 0,-15,403 0,1,413 9,-12,441
+00 13630 Blue ParaKoopa, Type 2, SMB3 Style
+00 13632 0,-13,40B 0,3,41B 8,-13,445
+00 13820 Red ParaKoopa, Type 2, SMW Style
+00 13822 0,-15,404 0,1,414 9,-12,441
+00 13830 Red ParaKoopa, Type 2, SMB3 Style
+00 13832 0,-13,40C 0,3,41C 8,-13,445
+00 13A20 Green ParaKoopa, Type 2, SMW Style
+00 13A22 0,-15,405 0,1,415 9,-12,441
+00 13A30 Green ParaKoopa, Type 2, SMB3 Style
+00 13A32 0,-13,40D 0,3,41D 8,-13,445
+00 13C20 Pal E ParaKoopa, Type 2, SMW Style
+00 13C22 0,-15,406 0,1,416 9,-12,441
+00 13C30 Pal E ParaKoopa, Type 2, SMB3 Style
+00 13C32 0,-13,40E 0,3,41E 8,-13,445
+00 13E20 Pal F ParaKoopa, Type 2, SMW Style
+00 13E22 0,-15,407 0,1,417 9,-12,441
+00 13E30 Pal F ParaKoopa, Type 2, SMB3 Style
+00 13E32 0,-13,40F 0,3,41F 8,-13,445
+00 13120 Gold ParaKoopa, Type 2, SMW Mask Style
+00 13122 0,-15,420 0,1,430 9,-12,443
+00 13130 Gold ParaKoopa, Type 2, SMB1 Style
+00 13132 0,-15,428 0,1,438 8,-8,447
+00 13320 Silver ParaKoopa, Type 2, SMW Mask Style
+00 13322 0,-15,421 0,1,431 9,-12,443
+00 13330 Silver ParaKoopa, Type 2, SMB1 Style
+00 13332 0,-15,429 0,1,439 8,-8,447
+00 13520 Yellow ParaKoopa, Type 2, SMW Mask Style
+00 13522 0,-15,422 0,1,432 9,-12,443
+00 13530 Yellow ParaKoopa, Type 2, SMB1 Style
+00 13532 0,-15,42A 0,1,43A 8,-8,447
+00 13720 Blue ParaKoopa, Type 2, SMW Mask Style
+00 13722 0,-15,423 0,1,433 9,-12,443
+00 13730 Blue ParaKoopa, Type 2, SMB1 Style
+00 13732 0,-15,42B 0,1,43B 8,-8,447
+00 13920 Red ParaKoopa, Type 2, SMW Mask Style
+00 13922 0,-15,424 0,1,434 9,-12,443
+00 13930 Red ParaKoopa, Type 2, SMB1 Style
+00 13932 0,-15,42C 0,1,43C 8,-8,447
+00 13B20 Green ParaKoopa, Type 2, SMW Mask Style
+00 13B22 0,-15,425 0,1,435 9,-12,443
+00 13B30 Green ParaKoopa, Type 2, SMB1 Style
+00 13B32 0,-15,42D 0,1,43D 8,-8,447
+00 13D20 Pal E ParaKoopa, Type 2, SMW Mask Style
+00 13D22 0,-15,426 0,1,436 9,-12,443
+00 13D30 Pal E ParaKoopa, Type 2, SMB1 Style
+00 13D32 0,-15,42E 0,1,43E 8,-8,447
+00 13F20 Pal F ParaKoopa, Type 2, SMW Mask Style
+00 13F22 0,-15,427 0,1,437 9,-12,443
+00 13F30 Pal F ParaKoopa, Type 2, SMB1 Style
+00 13F32 0,-15,42F 0,1,43F 8,-8,447
+00 14020 Gold Beach Koopa, SMW Style
+00 14022 0,1,450
+00 14220 Silver Beach Koopa, SMW Style
+00 14222 0,1,451
+00 14420 Yellow Beach Koopa, SMW Style
+00 14422 0,1,452
+00 14620 Blue Beach Koopa, SMW Style
+00 14622 0,1,453
+00 14820 Red Beach Koopa, SMW Style
+00 14822 0,1,454
+00 14A20 Green Beach Koopa, SMW Style
+00 14A22 0,1,455
+00 14C20 Pal E Beach Koopa, SMW Style
+00 14C22 0,1,456
+00 14E20 Pal F Beach Koopa, SMW Style
+00 14E22 0,1,457
+00 14120 Gold Beach Koopa, SMW Mask Style
+00 14122 0,-15,448 0,1,430
+00 14320 Silver Beach Koopa, SMW Mask Style
+00 14322 0,-15,449 0,1,431
+00 14520 Yellow Beach Koopa, SMW Mask Style
+00 14522 0,-15,44A 0,1,432
+00 14720 Blue Beach Koopa, SMW Mask Style
+00 14722 0,-15,44B 0,1,433
+00 14920 Red Beach Koopa, SMW Mask Style
+00 14922 0,-15,44C 0,1,434
+00 14B20 Green Beach Koopa, SMW Mask Style
+00 14B22 0,-15,44D 0,1,435
+00 14D20 Pal E Beach Koopa, SMW Mask Style
+00 14D22 0,-15,44E 0,1,436
+00 14F20 Pal F Beach Koopa, SMW Mask Style
+00 14F22 0,-15,44F 0,1,437
+00 18020 Gold Koopa, SMW Style
+00 18022 0,1,470
+00 18030 Gold Koopa, SMB3 Style
+00 18032 0,1,480
+00 18220 Silver Koopa, SMW Style
+00 18222 0,1,471
+00 18230 Silver Koopa, SMB3 Style
+00 18232 0,1,481
+00 18420 Yellow Koopa, SMW Style
+00 18422 0,1,472
+00 18430 Yellow Koopa, SMB3 Style
+00 18432 0,1,482
+00 18620 Blue Koopa, SMW Style
+00 18622 0,1,473
+00 18630 Blue Koopa, SMB3 Style
+00 18632 0,1,483
+00 180820 Red Koopa, SMW Style
+00 18822 0,1,474
+00 18830 Red Koopa, SMB3 Style
+00 18832 0,1,484
+00 18A20 Green Koopa, SMW Style
+00 18A22 0,1,475
+00 18A30 Green Koopa, SMB3 Style
+00 18A32 0,1,485
+00 18C20 Pal E Koopa, SMW Style
+00 18C22 0,1,476
+00 18C30 Pal E Koopa, SMB3 Style
+00 18C32 0,1,486
+00 18E20 Pal F Koopa, SMW Style
+00 18E22 0,1,477
+00 18E30 Pal F Koopa, SMB3 Style
+00 18E32 0,1,487
+00 18120 Gold Koopa, SMW Mask Style
+00 18122 0,1,478
+00 18130 Gold Koopa, SMB1 Style
+00 18132 0,1,488
+00 18320 Silver Koopa, SMW Mask Style
+00 18322 0,1,479
+00 18330 Silver Koopa, SMB1 Style
+00 18332 0,1,489
+00 18520 Yellow Koopa, SMW Mask Style
+00 18522 0,1,47A
+00 18530 Yellow Koopa, SMB1 Style
+00 18532 0,1,48A
+00 18720 Blue Koopa, SMW Mask Style
+00 18722 0,1,47B
+00 18730 Blue Koopa, SMB1 Style
+00 18732 0,1,48B
+00 18920 Red Koopa, SMW Mask Style
+00 18922 0,1,47C
+00 18930 Red Koopa, SMB1 Style
+00 18932 0,1,48C
+00 18B20 Green Koopa, SMW Mask Style
+00 18B22 0,1,47D
+00 18B30 Green Koopa, SMB1 Style
+00 18B32 0,1,48D
+00 18D20 Pal E Koopa, SMW Mask Style
+00 18D22 0,1,47E
+00 18D30 Pal E Koopa, SMB1 Style
+00 18D32 0,1,48E
+00 18F20 Pal F Koopa, SMW Mask Style
+00 18F22 0,1,47F
+00 18F30 Pal F Koopa, SMB1 Style
+00 18F32 0,1,48F
+00 19020 Gold ParaKoopa, Type 1, SMW Style
+00 19022 0,1,470 9,-12,440
+00 19030 Gold ParaKoopa, Type 1, SMB3 Style
+00 19032 0,1,480 8,-8,444
+00 19220 Silver ParaKoopa, Type 1, SMW Style
+00 19222 0,1,471 9,-12,440
+00 19230 Silver ParaKoopa, Type 1, SMB3 Style
+00 19232 0,1,481 8,-8,444
+00 19420 Yellow ParaKoopa, Type 1, SMW Style
+00 19422 0,1,472 9,-12,440
+00 19430 Yellow ParaKoopa, Type 1, SMB3 Style
+00 19432 0,1,482 8,-8,444
+00 19620 Blue ParaKoopa, Type 1, SMW Style
+00 19622 0,1,473 9,-12,440
+00 19630 Blue ParaKoopa, Type 1, SMB3 Style
+00 19632 0,1,483 8,-8,444
+00 19820 Red ParaKoopa, Type 1, SMW Style
+00 19822 0,1,474 9,-12,440
+00 19830 Red ParaKoopa, Type 1, SMB3 Style
+00 19832 0,1,484 8,-8,444
+00 19A20 Green ParaKoopa, Type 1, SMW Style
+00 19A22 0,1,475 9,-12,440
+00 19A30 Green ParaKoopa, Type 1, SMB3 Style
+00 19A32 0,1,485 8,-8,444
+00 19C20 Pal E ParaKoopa, Type 1, SMW Style
+00 19C22 0,1,476 9,-12,440
+00 19C30 Pal E ParaKoopa, Type 1, SMB3 Style
+00 19C32 0,1,486 8,-8,444
+00 19E20 Pal F ParaKoopa, Type 1, SMW Style
+00 19E22 0,1,477 9,-12,440
+00 19E30 Pal F ParaKoopa, Type 1, SMB3 Style
+00 19E32 0,1,487 8,-8,444
+00 19120 Gold ParaKoopa, Type 1, SMW Mask Style
+00 19122 0,1,478 9,-12,442
+00 19130 Gold ParaKoopa, Type 1, SMB1 Style
+00 19132 0,1,488 8,-8,446
+00 19320 Silver ParaKoopa, Type 1, SMW Mask Style
+00 19322 0,1,479 9,-12,442
+00 19330 Silver ParaKoopa, Type 1, SMB1 Style
+00 19332 0,1,489 8,-8,446
+00 19520 Yellow ParaKoopa, Type 1, SMW Mask Style
+00 19522 0,1,47A 9,-12,442
+00 19530 Yellow ParaKoopa, Type 1, SMB1 Style
+00 19532 0,1,48A 8,-8,446
+00 19720 Blue ParaKoopa, Type 1, SMW Mask Style
+00 19722 0,1,47B 9,-12,442
+00 19730 Blue ParaKoopa, Type 1, SMB1 Style
+00 19732 0,1,48B 8,-8,446
+00 19920 Red ParaKoopa, Type 1, SMW Mask Style
+00 19922 0,1,47C 9,-12,442
+00 19930 Red ParaKoopa, Type 1, SMB1 Style
+00 19932 0,1,48C 8,-8,446
+00 19B20 Green ParaKoopa, Type 1, SMW Mask Style
+00 19B22 0,1,47D 9,-12,442
+00 19B30 Green ParaKoopa, Type 1, SMB1 Style
+00 19B32 0,1,48D 8,-8,446
+00 19D20 Pal E ParaKoopa, Type 1, SMW Mask Style
+00 19D22 0,1,47E 9,-12,442
+00 19D30 Pal E ParaKoopa, Type 1, SMB1 Style
+00 19D32 0,1,48E 8,-8,446
+00 19F20 Pal F ParaKoopa, Type 1, SMW Mask Style
+00 19F22 0,1,47F 9,-12,442
+00 19F30 Pal F ParaKoopa, Type 1, SMB1 Style
+00 19F32 0,1,48F 8,-8,446
+00 1B020 Gold ParaKoopa, Type 2, SMW Style
+00 1B022 0,1,470 9,-12,441
+00 1B030 Gold ParaKoopa, Type 2, SMB3 Style
+00 1B032 0,1,480 8,-8,445
+00 1B220 Silver ParaKoopa, Type 2, SMW Style
+00 1B222 0,1,471 9,-12,441
+00 1B230 Silver ParaKoopa, Type 2, SMB3 Style
+00 1B232 0,1,481 8,-8,445
+00 1B420 Yellow ParaKoopa, Type 2, SMW Style
+00 1B422 0,1,472 9,-12,441
+00 1B430 Yellow ParaKoopa, Type 2, SMB3 Style
+00 1B432 0,1,482 8,-8,445
+00 1B620 Blue ParaKoopa, Type 2, SMW Style
+00 1B622 0,1,473 9,-12,441
+00 1B630 Blue ParaKoopa, Type 2, SMB3 Style
+00 1B632 0,1,483 8,-8,445
+00 1B820 Red ParaKoopa, Type 2, SMW Style
+00 1B822 0,1,474 9,-12,441
+00 1B830 Red ParaKoopa, Type 2, SMB3 Style
+00 1B832 0,1,484 8,-8,445
+00 1BA20 Green ParaKoopa, Type 2, SMW Style
+00 1BA22 0,1,475 9,-12,441
+00 1BA30 Green ParaKoopa, Type 2, SMB3 Style
+00 1BA32 0,1,485 8,-8,445
+00 1BC20 Pal E ParaKoopa, Type 2, SMW Style
+00 1BC22 0,1,476 9,-12,441
+00 1BC30 Pal E ParaKoopa, Type 2, SMB3 Style
+00 1BC32 0,1,486 8,-8,445
+00 1BE20 Pal F ParaKoopa, Type 2, SMW Style
+00 1BE22 0,1,477 9,-12,441
+00 1BE30 Pal F ParaKoopa, Type 2, SMB3 Style
+00 1BE32 0,1,487 8,-8,445
+00 1B120 Gold ParaKoopa, Type 2, SMW Mask Style
+00 1B122 0,1,478 9,-12,443
+00 1B130 Gold ParaKoopa, Type 2, SMB1 Style
+00 1B132 0,1,488 8,-8,447
+00 1B320 Silver ParaKoopa, Type 2, SMW Mask Style
+00 1B322 0,1,479 9,-12,443
+00 1B330 Silver ParaKoopa, Type 2, SMB1 Style
+00 1B332 0,1,489 8,-8,447
+00 1B520 Yellow ParaKoopa, Type 2, SMW Mask Style
+00 1B522 0,1,47A 9,-12,443
+00 1B530 Yellow ParaKoopa, Type 2, SMB1 Style
+00 1B532 0,1,48A 8,-8,447
+00 1B720 Blue ParaKoopa, Type 2, SMW Mask Style
+00 1B722 0,1,47B 9,-12,443
+00 1B730 Blue ParaKoopa, Type 2, SMB1 Style
+00 1B732 0,1,48B 8,-8,447
+00 1B920 Red ParaKoopa, Type 2, SMW Mask Style
+00 1B922 0,1,47C 9,-12,443
+00 1B930 Red ParaKoopa, Type 2, SMB1 Style
+00 1B932 0,1,48C 8,-8,447
+00 1BB20 Green ParaKoopa, Type 2, SMW Mask Style
+00 1BB22 0,1,47D 9,-12,443
+00 1BB30 Green ParaKoopa, Type 2, SMB1 Style
+00 1BB32 0,1,48D 8,-8,447
+00 1BD20 Pal E ParaKoopa, Type 2, SMW Mask Style
+00 1BD22 0,1,47E 9,-12,443
+00 1BD30 Pal E ParaKoopa, Type 2, SMB1 Style
+00 1BD32 0,1,48E 8,-8,447
+00 1BF20 Pal F ParaKoopa, Type 2, SMW Mask Style
+00 1BF22 0,1,47F 9,-12,443
+00 1BF30 Pal F ParaKoopa, Type 2, SMB1 Style
+00 1BF32 0,1,48F 8,-8,447
+00 1C020 Gold Sliding Beach Koopa, SMW Style
+00 1C022 0,1,460
+00 1C220 Silver Sliding Beach Koopa, SMW Style
+00 1C222 0,1,461
+00 1C420 Yellow Sliding Beach Koopa, SMW Style
+00 1C422 0,1,462
+00 1C620 Blue Sliding Beach Koopa, SMW Style
+00 1C622 0,1,463
+00 1C820 Red Sliding Beach Koopa, SMW Style
+00 1C822 0,1,464
+00 1CA20 Green Sliding Beach Koopa, SMW Style
+00 1CA22 0,1,465
+00 1CC20 Pal E Sliding Beach Koopa, SMW Style
+00 1CC22 0,1,466
+00 1CE20 Pal F Sliding Beach Koopa, SMW Style
+00 1CE22 0,1,467
+00 1C120 Gold Sliding Beach Koopa, SMW Mask Style
+00 1C122 0,1,468 16,1,458
+00 1C320 Silver Sliding Beach Koopa, SMW Mask Style
+00 1C322 0,1,469 16,1,459
+00 1C520 Yellow Sliding Beach Koopa, SMW Mask Style
+00 1C522 0,1,46A 16,1,45A
+00 1C720 Blue Sliding Beach Koopa, SMW Mask Style
+00 1C722 0,1,46B 16,1,45B
+00 1C920 Red Sliding Beach Koopa, SMW Mask Style
+00 1C922 0,1,46C 16,1,45C
+00 1CB20 Green Sliding Beach Koopa, SMW Mask Style
+00 1CB22 0,1,46D 16,1,45D
+00 1CD20 Pal E Sliding Beach Koopa, SMW Mask Style
+00 1CD22 0,1,46E 16,1,45E
+00 1CF20 Pal F Sliding Beach Koopa, SMW Mask Style
+00 1CF22 0,1,46F 16,1,45F
